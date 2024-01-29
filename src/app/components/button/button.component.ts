@@ -12,5 +12,4 @@ export class ButtonComponent{
 onClick(){
   this.btnClick.emit();
 }
-
 }
